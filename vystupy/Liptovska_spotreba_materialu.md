@@ -86,48 +86,48 @@ Hrany: D1/D2 = dlhé hrany (pozdĺž dĺžky), Š1/Š2 = krátke hrany; 2 = ABS 
 | 56 | Z3 Kuchyňa – drez (bežová) | Polička-kapotáž – čelo | DTD P5 vlhkuodolná 18 mm | 18 | 2100 | 64 | 1 | 2100 | 64 | nie (uni) | – | – | – | – | 0.13 | str. 1, 2, 7, 8 |  |
 | 57 | Z3 Kuchyňa – drez (bežová) | Polička-kapotáž – bočnica | DTD P5 vlhkuodolná 18 mm | 18 | 200 | 100 | 1 | 200 | 100 | nie (uni) | – | – | – | – | 0.02 | str. 1, 2, 7, 8 |  |
 | 58 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Chladnička – bok (ľavý so zrkadlom zvonka) | DTD Unilin 0H251 W06 walnut medium brown | 18 | 2565 | 580 | 2 | 2565 | 578 | áno – pozdĺž dĺžky L | 2 | – | – | – | 2.98 | str. 1, 2, 8, 9 | textúra zvislo |
-| 59 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Chladnička – dno na sokli | DTD biela (napr. Egger W980 ST2) | 18 | 564 | 580 | 1 | 564 | 579.5 | nie (uni) | 0,5 | – | – | – | 0.33 | str. 1, 2, 8, 9 |  |
-| 60 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Chladnička – medzidoska v. 2000 | DTD biela (napr. Egger W980 ST2) | 18 | 564 | 580 | 1 | 564 | 579.5 | nie (uni) | 0,5 | – | – | – | 0.33 | str. 1, 2, 8, 9 |  |
-| 61 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Chladnička – strop | DTD biela (napr. Egger W980 ST2) | 18 | 564 | 580 | 1 | 564 | 579.5 | nie (uni) | 0,5 | – | – | – | 0.33 | str. 1, 2, 8, 9 |  |
-| 62 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Chladnička – polica nast. nadstavec | DTD biela (napr. Egger W980 ST2) | 18 | 563 | 540 | 1 | 563 | 539.5 | nie (uni) | 0,5 | – | – | – | 0.3 | str. 1, 2, 8, 9 |  |
+| 59 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Chladnička – dno na sokli | DTD Unilin 0H251 W06 walnut medium brown | 18 | 564 | 580 | 1 | 564 | 579.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.33 | str. 1, 2, 8, 9 |  |
+| 60 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Chladnička – medzidoska v. 2000 | DTD Unilin 0H251 W06 walnut medium brown | 18 | 564 | 580 | 1 | 564 | 579.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.33 | str. 1, 2, 8, 9 |  |
+| 61 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Chladnička – strop | DTD Unilin 0H251 W06 walnut medium brown | 18 | 564 | 580 | 1 | 564 | 579.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.33 | str. 1, 2, 8, 9 |  |
+| 62 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Chladnička – polica nast. nadstavec | DTD Unilin 0H251 W06 walnut medium brown | 18 | 563 | 540 | 1 | 563 | 539.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.3 | str. 1, 2, 8, 9 |  |
 | 63 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Chladnička – chrbát nadstavca | HDF biela 3 mm | 3 | 600 | 560 | 1 | 600 | 560 | nie (uni) | – | – | – | – | 0.34 | str. 1, 2, 8, 9 |  |
 | 64 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Čelo chladnička | DTD Unilin 0H251 W06 walnut medium brown | 18 | 1117 | 597 | 1 | 1113 | 593 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.67 | str. 1, 2, 8, 9 | závisí od spotrebiča |
 | 65 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Čelo mraznička | DTD Unilin 0H251 W06 walnut medium brown | 18 | 777 | 597 | 1 | 773 | 593 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.46 | str. 1, 2, 8, 9 | závisí od spotrebiča |
 | 66 | Z4 Kuchyňa – vysoká zostava (orech) | K4.1 Dvierka nadstavec (push) | DTD Unilin 0H251 W06 walnut medium brown | 18 | 569 | 597 | 1 | 565 | 593 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.34 | str. 1, 2, 8, 9 |  |
-| 67 | Z4 Kuchyňa – vysoká zostava (orech) | K4.2 Výsuv 400 ľavý – bok | DTD biela (napr. Egger W980 ST2) | 18 | 780 | 560 | 2 | 780 | 559.5 | nie (uni) | 0,5 | – | – | – | 0.87 | str. 1, 2, 8, 9 |  |
-| 68 | Z4 Kuchyňa – vysoká zostava (orech) | K4.2 Výsuv 400 ľavý – dno | DTD biela (napr. Egger W980 ST2) | 18 | 364 | 560 | 1 | 364 | 559.5 | nie (uni) | 0,5 | – | – | – | 0.2 | str. 1, 2, 8, 9 |  |
-| 69 | Z4 Kuchyňa – vysoká zostava (orech) | K4.2 Výsuv 400 ľavý – spojka | DTD biela (napr. Egger W980 ST2) | 18 | 364 | 100 | 2 | 364 | 100 | nie (uni) | – | – | – | – | 0.07 | str. 1, 2, 8, 9 |  |
+| 67 | Z4 Kuchyňa – vysoká zostava (orech) | K4.2 Výsuv 400 ľavý – bok | DTD Unilin 0H251 W06 walnut medium brown | 18 | 780 | 560 | 2 | 780 | 559.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.87 | str. 1, 2, 8, 9 |  |
+| 68 | Z4 Kuchyňa – vysoká zostava (orech) | K4.2 Výsuv 400 ľavý – dno | DTD Unilin 0H251 W06 walnut medium brown | 18 | 364 | 560 | 1 | 364 | 559.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.2 | str. 1, 2, 8, 9 |  |
+| 69 | Z4 Kuchyňa – vysoká zostava (orech) | K4.2 Výsuv 400 ľavý – spojka | DTD Unilin 0H251 W06 walnut medium brown | 18 | 364 | 100 | 2 | 364 | 100 | áno – pozdĺž dĺžky L | – | – | – | – | 0.07 | str. 1, 2, 8, 9 |  |
 | 70 | Z4 Kuchyňa – vysoká zostava (orech) | K4.2 Výsuv 400 ľavý – chrbát | HDF biela 3 mm | 3 | 400 | 780 | 1 | 400 | 780 | nie (uni) | – | – | – | – | 0.31 | str. 1, 2, 8, 9 |  |
 | 71 | Z4 Kuchyňa – vysoká zostava (orech) | K4.2 Výsuv 400 ľavý – čelo | DTD Unilin 0H251 W06 walnut medium brown | 18 | 777 | 397 | 1 | 773 | 393 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.31 | str. 1, 2, 8, 9 |  |
 | 72 | Z4 Kuchyňa – vysoká zostava (orech) | K4.2 Výsuv 400 ľavý – dno vnút. zásuvky | DTD biela 16 mm | 16 | 329 | 490 | 3 | 329 | 490 | nie (uni) | – | – | – | – | 0.48 | str. 1, 2, 8, 9 |  |
-| 73 | Z4 Kuchyňa – vysoká zostava (orech) | K4.4 Výsuv 400 pravý – bok | DTD biela (napr. Egger W980 ST2) | 18 | 780 | 560 | 2 | 780 | 559.5 | nie (uni) | 0,5 | – | – | – | 0.87 | str. 1, 2, 8, 9 |  |
-| 74 | Z4 Kuchyňa – vysoká zostava (orech) | K4.4 Výsuv 400 pravý – dno | DTD biela (napr. Egger W980 ST2) | 18 | 364 | 560 | 1 | 364 | 559.5 | nie (uni) | 0,5 | – | – | – | 0.2 | str. 1, 2, 8, 9 |  |
-| 75 | Z4 Kuchyňa – vysoká zostava (orech) | K4.4 Výsuv 400 pravý – spojka | DTD biela (napr. Egger W980 ST2) | 18 | 364 | 100 | 2 | 364 | 100 | nie (uni) | – | – | – | – | 0.07 | str. 1, 2, 8, 9 |  |
+| 73 | Z4 Kuchyňa – vysoká zostava (orech) | K4.4 Výsuv 400 pravý – bok | DTD Unilin 0H251 W06 walnut medium brown | 18 | 780 | 560 | 2 | 780 | 559.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.87 | str. 1, 2, 8, 9 |  |
+| 74 | Z4 Kuchyňa – vysoká zostava (orech) | K4.4 Výsuv 400 pravý – dno | DTD Unilin 0H251 W06 walnut medium brown | 18 | 364 | 560 | 1 | 364 | 559.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.2 | str. 1, 2, 8, 9 |  |
+| 75 | Z4 Kuchyňa – vysoká zostava (orech) | K4.4 Výsuv 400 pravý – spojka | DTD Unilin 0H251 W06 walnut medium brown | 18 | 364 | 100 | 2 | 364 | 100 | áno – pozdĺž dĺžky L | – | – | – | – | 0.07 | str. 1, 2, 8, 9 |  |
 | 76 | Z4 Kuchyňa – vysoká zostava (orech) | K4.4 Výsuv 400 pravý – chrbát | HDF biela 3 mm | 3 | 400 | 780 | 1 | 400 | 780 | nie (uni) | – | – | – | – | 0.31 | str. 1, 2, 8, 9 |  |
 | 77 | Z4 Kuchyňa – vysoká zostava (orech) | K4.4 Výsuv 400 pravý – čelo | DTD Unilin 0H251 W06 walnut medium brown | 18 | 777 | 397 | 1 | 773 | 393 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.31 | str. 1, 2, 8, 9 |  |
 | 78 | Z4 Kuchyňa – vysoká zostava (orech) | K4.4 Výsuv 400 pravý – dno vnút. zásuvky | DTD biela 16 mm | 16 | 329 | 490 | 3 | 329 | 490 | nie (uni) | – | – | – | – | 0.48 | str. 1, 2, 8, 9 |  |
-| 79 | Z4 Kuchyňa – vysoká zostava (orech) | K4.3 Rúra 600 – bok | DTD biela (napr. Egger W980 ST2) | 18 | 780 | 560 | 2 | 780 | 559.5 | nie (uni) | 0,5 | – | – | – | 0.87 | str. 1, 2, 8, 9 |  |
-| 80 | Z4 Kuchyňa – vysoká zostava (orech) | K4.3 Rúra 600 – dno | DTD biela (napr. Egger W980 ST2) | 18 | 564 | 560 | 1 | 564 | 559.5 | nie (uni) | 0,5 | – | – | – | 0.32 | str. 1, 2, 8, 9 |  |
-| 81 | Z4 Kuchyňa – vysoká zostava (orech) | K4.3 Rúra 600 – spojka | DTD biela (napr. Egger W980 ST2) | 18 | 564 | 100 | 2 | 564 | 100 | nie (uni) | – | – | – | – | 0.11 | str. 1, 2, 8, 9 |  |
-| 82 | Z4 Kuchyňa – vysoká zostava (orech) | K4.3 Rúra 600 – polica pevná nad rúrou | DTD biela (napr. Egger W980 ST2) | 18 | 564 | 540 | 1 | 564 | 539.5 | nie (uni) | 0,5 | – | – | – | 0.3 | str. 1, 2, 8, 9 |  |
+| 79 | Z4 Kuchyňa – vysoká zostava (orech) | K4.3 Rúra 600 – bok | DTD Unilin 0H251 W06 walnut medium brown | 18 | 780 | 560 | 2 | 780 | 559.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.87 | str. 1, 2, 8, 9 |  |
+| 80 | Z4 Kuchyňa – vysoká zostava (orech) | K4.3 Rúra 600 – dno | DTD Unilin 0H251 W06 walnut medium brown | 18 | 564 | 560 | 1 | 564 | 559.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.32 | str. 1, 2, 8, 9 |  |
+| 81 | Z4 Kuchyňa – vysoká zostava (orech) | K4.3 Rúra 600 – spojka | DTD Unilin 0H251 W06 walnut medium brown | 18 | 564 | 100 | 2 | 564 | 100 | áno – pozdĺž dĺžky L | – | – | – | – | 0.11 | str. 1, 2, 8, 9 |  |
+| 82 | Z4 Kuchyňa – vysoká zostava (orech) | K4.3 Rúra 600 – polica pevná nad rúrou | DTD Unilin 0H251 W06 walnut medium brown | 18 | 564 | 540 | 1 | 564 | 539.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.3 | str. 1, 2, 8, 9 |  |
 | 83 | Z4 Kuchyňa – vysoká zostava (orech) | K4.3 Rúra 600 – čelo šuflíka | DTD Unilin 0H251 W06 walnut medium brown | 18 | 177 | 597 | 1 | 173 | 593 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.11 | str. 1, 2, 8, 9 | textúra zvislo (krátky rozmer!) |
 | 84 | Z4 Kuchyňa – vysoká zostava (orech) | K4.3 Rúra 600 – dno zásuvky | DTD biela 16 mm | 16 | 529 | 490 | 1 | 529 | 490 | nie (uni) | – | – | – | – | 0.26 | str. 1, 2, 8, 9 |  |
-| 85 | Z4 Kuchyňa – vysoká zostava (orech) | K4.5 Horná 400 ľavá – bok | DTD biela (napr. Egger W980 ST2) | 18 | 1045 | 350 | 2 | 1045 | 349.5 | nie (uni) | 0,5 | – | – | – | 0.73 | str. 1, 2, 8, 9 | hĺbka 350 predpoklad |
-| 86 | Z4 Kuchyňa – vysoká zostava (orech) | K4.5 Horná 400 ľavá – dno | DTD biela (napr. Egger W980 ST2) | 18 | 364 | 350 | 1 | 364 | 348 | nie (uni) | 2 | – | – | – | 0.13 | str. 1, 2, 8, 9 | viditeľné zdola |
-| 87 | Z4 Kuchyňa – vysoká zostava (orech) | K4.5 Horná 400 ľavá – strop | DTD biela (napr. Egger W980 ST2) | 18 | 364 | 350 | 1 | 364 | 349.5 | nie (uni) | 0,5 | – | – | – | 0.13 | str. 1, 2, 8, 9 |  |
-| 88 | Z4 Kuchyňa – vysoká zostava (orech) | K4.5 Horná 400 ľavá – polica nast. | DTD biela (napr. Egger W980 ST2) | 18 | 363 | 330 | 2 | 363 | 329.5 | nie (uni) | 0,5 | – | – | – | 0.24 | str. 1, 2, 8, 9 |  |
+| 85 | Z4 Kuchyňa – vysoká zostava (orech) | K4.5 Horná 400 ľavá – bok | DTD Unilin 0H251 W06 walnut medium brown | 18 | 1045 | 350 | 2 | 1045 | 349.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.73 | str. 1, 2, 8, 9 | hĺbka 350 predpoklad |
+| 86 | Z4 Kuchyňa – vysoká zostava (orech) | K4.5 Horná 400 ľavá – dno | DTD Unilin 0H251 W06 walnut medium brown | 18 | 364 | 350 | 1 | 364 | 348 | áno – pozdĺž dĺžky L | 2 | – | – | – | 0.13 | str. 1, 2, 8, 9 | viditeľné zdola |
+| 87 | Z4 Kuchyňa – vysoká zostava (orech) | K4.5 Horná 400 ľavá – strop | DTD Unilin 0H251 W06 walnut medium brown | 18 | 364 | 350 | 1 | 364 | 349.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.13 | str. 1, 2, 8, 9 |  |
+| 88 | Z4 Kuchyňa – vysoká zostava (orech) | K4.5 Horná 400 ľavá – polica nast. | DTD Unilin 0H251 W06 walnut medium brown | 18 | 363 | 330 | 2 | 363 | 329.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.24 | str. 1, 2, 8, 9 |  |
 | 89 | Z4 Kuchyňa – vysoká zostava (orech) | K4.5 Horná 400 ľavá – chrbát | HDF biela 3 mm | 3 | 400 | 1045 | 1 | 400 | 1045 | nie (uni) | – | – | – | – | 0.42 | str. 1, 2, 8, 9 |  |
 | 90 | Z4 Kuchyňa – vysoká zostava (orech) | K4.5 Horná 400 ľavá – dvierka (podhmat) | DTD Unilin 0H251 W06 walnut medium brown | 18 | 1072 | 397 | 1 | 1068 | 393 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.43 | str. 1, 2, 8, 9 | presah 20 pod dno = podhmat |
-| 91 | Z4 Kuchyňa – vysoká zostava (orech) | K4.6 Horná 600 digestor – bok | DTD biela (napr. Egger W980 ST2) | 18 | 1045 | 350 | 2 | 1045 | 349.5 | nie (uni) | 0,5 | – | – | – | 0.73 | str. 1, 2, 8, 9 | hĺbka 350 predpoklad |
-| 92 | Z4 Kuchyňa – vysoká zostava (orech) | K4.6 Horná 600 digestor – dno | DTD biela (napr. Egger W980 ST2) | 18 | 564 | 350 | 1 | 564 | 348 | nie (uni) | 2 | – | – | – | 0.2 | str. 1, 2, 8, 9 | viditeľné zdola + výrez digestor |
-| 93 | Z4 Kuchyňa – vysoká zostava (orech) | K4.6 Horná 600 digestor – strop | DTD biela (napr. Egger W980 ST2) | 18 | 564 | 350 | 1 | 564 | 349.5 | nie (uni) | 0,5 | – | – | – | 0.2 | str. 1, 2, 8, 9 |  |
-| 94 | Z4 Kuchyňa – vysoká zostava (orech) | K4.6 Horná 600 digestor – polica nast. | DTD biela (napr. Egger W980 ST2) | 18 | 563 | 330 | 1 | 563 | 329.5 | nie (uni) | 0,5 | – | – | – | 0.19 | str. 1, 2, 8, 9 | výrez pre potrubie |
+| 91 | Z4 Kuchyňa – vysoká zostava (orech) | K4.6 Horná 600 digestor – bok | DTD Unilin 0H251 W06 walnut medium brown | 18 | 1045 | 350 | 2 | 1045 | 349.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.73 | str. 1, 2, 8, 9 | hĺbka 350 predpoklad |
+| 92 | Z4 Kuchyňa – vysoká zostava (orech) | K4.6 Horná 600 digestor – dno | DTD Unilin 0H251 W06 walnut medium brown | 18 | 564 | 350 | 1 | 564 | 348 | áno – pozdĺž dĺžky L | 2 | – | – | – | 0.2 | str. 1, 2, 8, 9 | viditeľné zdola + výrez digestor |
+| 93 | Z4 Kuchyňa – vysoká zostava (orech) | K4.6 Horná 600 digestor – strop | DTD Unilin 0H251 W06 walnut medium brown | 18 | 564 | 350 | 1 | 564 | 349.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.2 | str. 1, 2, 8, 9 |  |
+| 94 | Z4 Kuchyňa – vysoká zostava (orech) | K4.6 Horná 600 digestor – polica nast. | DTD Unilin 0H251 W06 walnut medium brown | 18 | 563 | 330 | 1 | 563 | 329.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.19 | str. 1, 2, 8, 9 | výrez pre potrubie |
 | 95 | Z4 Kuchyňa – vysoká zostava (orech) | K4.6 Horná 600 digestor – chrbát | HDF biela 3 mm | 3 | 600 | 1045 | 1 | 600 | 1045 | nie (uni) | – | – | – | – | 0.63 | str. 1, 2, 8, 9 |  |
 | 96 | Z4 Kuchyňa – vysoká zostava (orech) | K4.6 Horná 600 digestor – dvierka (podhmat) | DTD Unilin 0H251 W06 walnut medium brown | 18 | 1072 | 597 | 1 | 1068 | 593 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.64 | str. 1, 2, 8, 9 | presah 20 pod dno = podhmat |
-| 97 | Z4 Kuchyňa – vysoká zostava (orech) | K4.7 Horná 400 pravá – bok | DTD biela (napr. Egger W980 ST2) | 18 | 1045 | 350 | 2 | 1045 | 349.5 | nie (uni) | 0,5 | – | – | – | 0.73 | str. 1, 2, 8, 9 | hĺbka 350 predpoklad |
-| 98 | Z4 Kuchyňa – vysoká zostava (orech) | K4.7 Horná 400 pravá – dno | DTD biela (napr. Egger W980 ST2) | 18 | 364 | 350 | 1 | 364 | 348 | nie (uni) | 2 | – | – | – | 0.13 | str. 1, 2, 8, 9 | viditeľné zdola |
-| 99 | Z4 Kuchyňa – vysoká zostava (orech) | K4.7 Horná 400 pravá – strop | DTD biela (napr. Egger W980 ST2) | 18 | 364 | 350 | 1 | 364 | 349.5 | nie (uni) | 0,5 | – | – | – | 0.13 | str. 1, 2, 8, 9 |  |
-| 100 | Z4 Kuchyňa – vysoká zostava (orech) | K4.7 Horná 400 pravá – polica nast. | DTD biela (napr. Egger W980 ST2) | 18 | 363 | 330 | 2 | 363 | 329.5 | nie (uni) | 0,5 | – | – | – | 0.24 | str. 1, 2, 8, 9 |  |
+| 97 | Z4 Kuchyňa – vysoká zostava (orech) | K4.7 Horná 400 pravá – bok | DTD Unilin 0H251 W06 walnut medium brown | 18 | 1045 | 350 | 2 | 1045 | 349.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.73 | str. 1, 2, 8, 9 | hĺbka 350 predpoklad |
+| 98 | Z4 Kuchyňa – vysoká zostava (orech) | K4.7 Horná 400 pravá – dno | DTD Unilin 0H251 W06 walnut medium brown | 18 | 364 | 350 | 1 | 364 | 348 | áno – pozdĺž dĺžky L | 2 | – | – | – | 0.13 | str. 1, 2, 8, 9 | viditeľné zdola |
+| 99 | Z4 Kuchyňa – vysoká zostava (orech) | K4.7 Horná 400 pravá – strop | DTD Unilin 0H251 W06 walnut medium brown | 18 | 364 | 350 | 1 | 364 | 349.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.13 | str. 1, 2, 8, 9 |  |
+| 100 | Z4 Kuchyňa – vysoká zostava (orech) | K4.7 Horná 400 pravá – polica nast. | DTD Unilin 0H251 W06 walnut medium brown | 18 | 363 | 330 | 2 | 363 | 329.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.24 | str. 1, 2, 8, 9 |  |
 | 101 | Z4 Kuchyňa – vysoká zostava (orech) | K4.7 Horná 400 pravá – chrbát | HDF biela 3 mm | 3 | 400 | 1045 | 1 | 400 | 1045 | nie (uni) | – | – | – | – | 0.42 | str. 1, 2, 8, 9 |  |
 | 102 | Z4 Kuchyňa – vysoká zostava (orech) | K4.7 Horná 400 pravá – dvierka (podhmat) | DTD Unilin 0H251 W06 walnut medium brown | 18 | 1072 | 397 | 1 | 1068 | 393 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.43 | str. 1, 2, 8, 9 | presah 20 pod dno = podhmat |
 | 103 | Z4 Kuchyňa – vysoká zostava (orech) | Blenda 100 – bočný panel A (pri varnej zóne) | DTD Unilin 0H251 W06 walnut medium brown | 18 | 2565 | 600 | 1 | 2565 | 598 | áno – pozdĺž dĺžky L | 2 | – | – | – | 1.54 | str. 1, 2, 8, 9 |  |
@@ -140,12 +140,12 @@ Hrany: D1/D2 = dlhé hrany (pozdĺž dĺžky), Š1/Š2 = krátke hrany; 2 = ABS 
 | 110 | Z4 Kuchyňa – vysoká zostava (orech) | K4.8 Nika – strop | DTD Unilin 0H251 W06 walnut medium brown | 18 | 382 | 470 | 1 | 382 | 468 | áno – pozdĺž dĺžky L | 2 | – | – | – | 0.18 | str. 1, 2, 8, 9 |  |
 | 111 | Z4 Kuchyňa – vysoká zostava (orech) | K4.8 Nika – polica pevná v. 1075 od stropu | DTD Unilin 0H251 W06 walnut medium brown | 18 | 382 | 470 | 1 | 382 | 468 | áno – pozdĺž dĺžky L | 2 | – | – | – | 0.18 | str. 1, 2, 8, 9 |  |
 | 112 | Z4 Kuchyňa – vysoká zostava (orech) | K4.8 Nika – polica nast. | DTD Unilin 0H251 W06 walnut medium brown | 18 | 381 | 450 | 2 | 381 | 448 | áno – pozdĺž dĺžky L | 2 | – | – | – | 0.34 | str. 1, 2, 8, 9 |  |
-| 113 | Z4 Kuchyňa – vysoká zostava (orech) | K4.8 Nika – chrbát pod zrkadlo | DTD biela (napr. Egger W980 ST2) | 18 | 1629 | 382 | 1 | 1629 | 382 | nie (uni) | – | – | – | – | 0.62 | str. 1, 2, 8, 9 |  |
+| 113 | Z4 Kuchyňa – vysoká zostava (orech) | K4.8 Nika – chrbát pod zrkadlo | DTD Unilin 0H251 W06 walnut medium brown | 18 | 1629 | 382 | 1 | 1629 | 382 | áno – pozdĺž dĺžky L | – | – | – | – | 0.62 | str. 1, 2, 8, 9 |  |
 | 114 | Z4 Kuchyňa – vysoká zostava (orech) | K4.8 Výsuvná doska kávovar – čelo | DTD Unilin 0H251 W06 walnut medium brown | 18 | 378 | 68 | 1 | 374 | 64 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.03 | str. 1, 2, 8, 9 | textúra vodorovne |
 | 115 | Z4 Kuchyňa – vysoká zostava (orech) | K4.8 Výsuvná doska kávovar – dno | DTD Unilin 0H251 W06 walnut medium brown | 18 | 346 | 440 | 1 | 342 | 436 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.15 | str. 1, 2, 8, 9 | Blum MOVENTO |
-| 116 | Z4 Kuchyňa – vysoká zostava (orech) | K4.9 Push stĺpec – bok pri stene | DTD biela (napr. Egger W980 ST2) | 18 | 1665 | 470 | 1 | 1665 | 469.5 | nie (uni) | 0,5 | – | – | – | 0.78 | str. 1, 2, 8, 9 |  |
-| 117 | Z4 Kuchyňa – vysoká zostava (orech) | K4.9 Push stĺpec – dno/strop/pevná polica | DTD biela (napr. Egger W980 ST2) | 18 | 164 | 470 | 3 | 164 | 469.5 | nie (uni) | 0,5 | – | – | – | 0.23 | str. 1, 2, 8, 9 |  |
-| 118 | Z4 Kuchyňa – vysoká zostava (orech) | K4.9 Push stĺpec – polica nast. | DTD biela (napr. Egger W980 ST2) | 18 | 163 | 440 | 3 | 163 | 439.5 | nie (uni) | 0,5 | – | – | – | 0.22 | str. 1, 2, 8, 9 |  |
+| 116 | Z4 Kuchyňa – vysoká zostava (orech) | K4.9 Push stĺpec – bok pri stene | DTD Unilin 0H251 W06 walnut medium brown | 18 | 1665 | 470 | 1 | 1665 | 469.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.78 | str. 1, 2, 8, 9 |  |
+| 117 | Z4 Kuchyňa – vysoká zostava (orech) | K4.9 Push stĺpec – dno/strop/pevná polica | DTD Unilin 0H251 W06 walnut medium brown | 18 | 164 | 470 | 3 | 164 | 469.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.23 | str. 1, 2, 8, 9 |  |
+| 118 | Z4 Kuchyňa – vysoká zostava (orech) | K4.9 Push stĺpec – polica nast. | DTD Unilin 0H251 W06 walnut medium brown | 18 | 163 | 440 | 3 | 163 | 439.5 | áno – pozdĺž dĺžky L | 0,5 | – | – | – | 0.22 | str. 1, 2, 8, 9 |  |
 | 119 | Z4 Kuchyňa – vysoká zostava (orech) | K4.9 Push stĺpec – chrbát | HDF biela 3 mm | 3 | 1665 | 200 | 1 | 1665 | 200 | nie (uni) | – | – | – | – | 0.33 | str. 1, 2, 8, 9 |  |
 | 120 | Z4 Kuchyňa – vysoká zostava (orech) | K4.9 Dvierka horné (push) | DTD Unilin 0H251 W06 walnut medium brown | 18 | 1072 | 197 | 1 | 1068 | 193 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.21 | str. 1, 2, 8, 9 |  |
 | 121 | Z4 Kuchyňa – vysoká zostava (orech) | K4.9 Dvierka dolné (push) | DTD Unilin 0H251 W06 walnut medium brown | 18 | 587 | 197 | 1 | 583 | 193 | áno – pozdĺž dĺžky L | 2 | 2 | 2 | 2 | 0.12 | str. 1, 2, 8, 9 | kóta 500 na výkrese – pozri Q9 |
@@ -205,8 +205,7 @@ Hrany: D1/D2 = dlhé hrany (pozdĺž dĺžky), Š1/Š2 = krátke hrany; 2 = ABS 
 | Materiál | Hrúbka | m² čisté | Odpad | m² s odpadom | Formát | Počet dosiek |
 |---|---|---|---|---|---|---|
 | DTD Pfleiderer U16007 SD light beige (alt. Unilin U172 CST Ivory) | 18 | 67.57 | 12 % | 75.68 | 2800×2070 | 14 |
-| DTD Unilin 0H251 W06 walnut medium brown | 18 | 12.26 | 15 % | 14.1 | 2800×2070 | 3 |
-| DTD biela (napr. Egger W980 ST2) – interiér korpusov Z4 | 18 | 10.81 | 10 % | 11.89 | 2800×2070 | 3 |
+| DTD Unilin 0H251 W06 walnut medium brown | 18 | 23.07 | 15 % | 26.53 | 2800×2070 | 5 |
 | DTD Egger unidekor béžový – kód upresní architekt (Z10) | 18 | 4.51 | 15 % | 5.19 | 2800×2070 | 1 |
 | DTD P5 vlhkuodolná 18 mm – podklad kapotáže pod obklad | 18 | 0.99 | 10 % | 1.09 | 2800×2070 | 1 |
 | DTD biela 16 mm – dná zásuviek Legrabox | 16 | 5.22 | 10 % | 5.75 | 2800×2070 | 1 |
@@ -219,12 +218,10 @@ Hrany: D1/D2 = dlhé hrany (pozdĺž dĺžky), Š1/Š2 = krátke hrany; 2 = ABS 
 |---|---|---|---|
 | Egger béžová | ABS 2 mm | 10.00 | 11.00 |
 | Egger béžová | ABS 0,5 mm | 1.24 | 1.36 |
-| H251 walnut | ABS 2 mm | 44.37 | 48.81 |
-| H251 walnut | ABS 0,5 mm | 1.96 | 2.16 |
+| H251 walnut | ABS 2 mm | 45.66 | 50.23 |
+| H251 walnut | ABS 0,5 mm | 22.98 | 25.28 |
 | U16007 light beige | ABS 2 mm | 135.66 | 149.23 |
 | U16007 light beige | ABS 0,5 mm | 37.32 | 41.05 |
-| biela | ABS 2 mm | 1.29 | 1.42 |
-| biela | ABS 0,5 mm | 21.01 | 23.12 |
 
 ## D) Kovanie a doplnky
 
@@ -283,7 +280,7 @@ Hrany: D1/D2 = dlhé hrany (pozdĺž dĺžky), Š1/Š2 = krátke hrany; 2 = ABS 
 | P1 | Pečiatka: „rozkreslenie atypového nábytku_byt Rezidencia Liptovská“, L. Vlasáková, B. Luptáková. Chýba dátum, revízia a mierka. Jediná revízia, PDF vytvorené 9. 11. 2026. |
 | P2 | Všetky rozmery sú z číselných kót (pôdorys + kóty v 3D pohľadoch). Odmerané hodnoty sú v kusovníku označené „odmerané – overiť“. |
 | P3 | Výška po strop 2575 → dielce na výšku 2565 (−10 mm montážna vôľa). Z6 2375 (pod SDK kapotážou 200) → 2365. |
-| P4 | Korpusy bežových zostáv celé v U16007 (dekor uni, bez textúry). Z4: viditeľné časti walnut, interiér biela DTD. |
+| P4 | Korpusy bežových zostáv celé v U16007 (dekor uni, bez textúry). Z4: korpusy aj viditeľné časti v orechu 0H251 W06 (podľa zadania); chrbty HDF biele. |
 | P5 | Medzery: čelá a dvierka −3 mm (1,5 na stranu), vložené −2 mm po obvode. Dvierka po podlahu +10 mm. |
 | P6 | Hrany: viditeľné ABS 2 mm, interiér za dvierkami ABS 0,5 mm v dekore korpusu. Rezný rozmer = hotový − hrúbka hrany (aj 0,5). |
 | P7 | Kuchyňa: sokel 100, korpus 780, pracovná doska 20 (MDF 19 + nerez 1) = 900. Spodné korpusy hĺbka 560 + 20 mm na rozvody, vysoké 580. |

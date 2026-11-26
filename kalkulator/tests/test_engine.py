@@ -25,12 +25,12 @@ def test_example_matches_original_calculation():
     s = by_mat(res)
     assert round(s["U16"]["m2"], 2) == 67.57
     assert s["U16"]["dosky"] == 14
-    assert round(s["WAL"]["m2"], 2) == 12.26
-    assert s["WAL"]["dosky"] == 3
+    assert round(s["WAL"]["m2"], 2) == 23.07
+    assert s["WAL"]["dosky"] == 5
     assert s["FLEX"]["dosky"] == "podľa dodávateľa"
     edges = {(e["dekor"], e["hrubka"]): e["bm"] for e in res["edges"]}
     assert round(edges[("U16007 light beige", 2)], 2) == 135.66
-    assert round(edges[("H251 walnut", 2)], 2) == 44.37
+    assert round(edges[("H251 walnut", 2)], 2) == 45.66
     assert not [w for w in res["warnings"] if "nezmestí" in w]
 
 

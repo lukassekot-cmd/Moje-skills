@@ -1036,7 +1036,7 @@
     },
     {
      "nazov": "K4.1 Chladnička – dno na sokli",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 564,
      "W": 580,
      "ks": 1,
@@ -1051,7 +1051,7 @@
     },
     {
      "nazov": "K4.1 Chladnička – medzidoska v. 2000",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 564,
      "W": 580,
      "ks": 1,
@@ -1066,7 +1066,7 @@
     },
     {
      "nazov": "K4.1 Chladnička – strop",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 564,
      "W": 580,
      "ks": 1,
@@ -1081,7 +1081,7 @@
     },
     {
      "nazov": "K4.1 Chladnička – polica nast. nadstavec",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 563,
      "W": 540,
      "ks": 1,
@@ -1156,7 +1156,7 @@
     },
     {
      "nazov": "K4.2 Výsuv 400 ľavý – bok",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 780,
      "W": 560,
      "ks": 2,
@@ -1171,7 +1171,7 @@
     },
     {
      "nazov": "K4.2 Výsuv 400 ľavý – dno",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 364,
      "W": 560,
      "ks": 1,
@@ -1186,7 +1186,7 @@
     },
     {
      "nazov": "K4.2 Výsuv 400 ľavý – spojka",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 364,
      "W": 100,
      "ks": 2,
@@ -1246,7 +1246,7 @@
     },
     {
      "nazov": "K4.4 Výsuv 400 pravý – bok",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 780,
      "W": 560,
      "ks": 2,
@@ -1261,7 +1261,7 @@
     },
     {
      "nazov": "K4.4 Výsuv 400 pravý – dno",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 364,
      "W": 560,
      "ks": 1,
@@ -1276,7 +1276,7 @@
     },
     {
      "nazov": "K4.4 Výsuv 400 pravý – spojka",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 364,
      "W": 100,
      "ks": 2,
@@ -1336,7 +1336,7 @@
     },
     {
      "nazov": "K4.3 Rúra 600 – bok",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 780,
      "W": 560,
      "ks": 2,
@@ -1351,7 +1351,7 @@
     },
     {
      "nazov": "K4.3 Rúra 600 – dno",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 564,
      "W": 560,
      "ks": 1,
@@ -1366,7 +1366,7 @@
     },
     {
      "nazov": "K4.3 Rúra 600 – spojka",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 564,
      "W": 100,
      "ks": 2,
@@ -1381,7 +1381,7 @@
     },
     {
      "nazov": "K4.3 Rúra 600 – polica pevná nad rúrou",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 564,
      "W": 540,
      "ks": 1,
@@ -1426,7 +1426,7 @@
     },
     {
      "nazov": "K4.5 Horná 400 ľavá – bok",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 1045,
      "W": 350,
      "ks": 2,
@@ -1441,7 +1441,7 @@
     },
     {
      "nazov": "K4.5 Horná 400 ľavá – dno",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 364,
      "W": 350,
      "ks": 1,
@@ -1456,7 +1456,7 @@
     },
     {
      "nazov": "K4.5 Horná 400 ľavá – strop",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 364,
      "W": 350,
      "ks": 1,
@@ -1471,7 +1471,7 @@
     },
     {
      "nazov": "K4.5 Horná 400 ľavá – polica nast.",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 363,
      "W": 330,
      "ks": 2,
@@ -1516,7 +1516,7 @@
     },
     {
      "nazov": "K4.6 Horná 600 digestor – bok",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 1045,
      "W": 350,
      "ks": 2,
@@ -1531,7 +1531,7 @@
     },
     {
      "nazov": "K4.6 Horná 600 digestor – dno",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 564,
      "W": 350,
      "ks": 1,
@@ -1546,7 +1546,7 @@
     },
     {
      "nazov": "K4.6 Horná 600 digestor – strop",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 564,
      "W": 350,
      "ks": 1,
@@ -1561,7 +1561,7 @@
     },
     {
      "nazov": "K4.6 Horná 600 digestor – polica nast.",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 563,
      "W": 330,
      "ks": 1,
@@ -1606,7 +1606,7 @@
     },
     {
      "nazov": "K4.7 Horná 400 pravá – bok",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 1045,
      "W": 350,
      "ks": 2,
@@ -1621,7 +1621,7 @@
     },
     {
      "nazov": "K4.7 Horná 400 pravá – dno",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 364,
      "W": 350,
      "ks": 1,
@@ -1636,7 +1636,7 @@
     },
     {
      "nazov": "K4.7 Horná 400 pravá – strop",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 364,
      "W": 350,
      "ks": 1,
@@ -1651,7 +1651,7 @@
     },
     {
      "nazov": "K4.7 Horná 400 pravá – polica nast.",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 363,
      "W": 330,
      "ks": 2,
@@ -1846,7 +1846,7 @@
     },
     {
      "nazov": "K4.8 Nika – chrbát pod zrkadlo",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 1629,
      "W": 382,
      "ks": 1,
@@ -1891,7 +1891,7 @@
     },
     {
      "nazov": "K4.9 Push stĺpec – bok pri stene",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 1665,
      "W": 470,
      "ks": 1,
@@ -1906,7 +1906,7 @@
     },
     {
      "nazov": "K4.9 Push stĺpec – dno/strop/pevná polica",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 164,
      "W": 470,
      "ks": 3,
@@ -1921,7 +1921,7 @@
     },
     {
      "nazov": "K4.9 Push stĺpec – polica nast.",
-     "mat": "BI18",
+     "mat": "WAL",
      "L": 163,
      "W": 440,
      "ks": 3,
